@@ -19,8 +19,10 @@ body {
 }
 
 h1 {
-  font-size: 3rem;
+  font-size: 4rem;
   color: orangered;
+  letter-spacing: 8px;
+  text-shadow: 5px 5px black;
 }
 
 p {
